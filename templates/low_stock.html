@@ -1,0 +1,22 @@
+{% extends 'base-template.html' %}
+{% block content %}
+    <div class="container">
+        <table class="table">
+            <thead>
+                <th scope="col">Product ID</th>
+                <th scope="col">Product Name</th>
+                <th scope="col">Quantity</th>
+            </thead>
+            <tbody>
+                {% for product in products %}
+                    <tr>
+                        <td>{{ product[0] }}</td>
+                        <td>{{ product[1] }}</td>
+                        <td>{{ product[2] }}</td>
+                    </tr>
+                {% endfor %}
+                <!-- Inserting data -->
+            </tbody>
+        </table>
+    </div>
+{% endblock %}
