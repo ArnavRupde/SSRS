@@ -22,3 +22,11 @@ Smart Store Replenishment System using Flask.
 
 admin email: admin@gmail.com
 admin password: admin
+
+# ScreenShots of Project:
+![ScreenShot1](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot1.png)
+![ScreenShot2](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot2.png)
+![ScreenShot3](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot3.png)
+![ScreenShot4](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot4.png)
+![ScreenShot5](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot5.png)
+![ScreenShot6](https://github.com/ArnavRupde/SSRS/blob/master/PPTImages/Screenshot6.png)
